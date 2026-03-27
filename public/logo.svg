@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#1f2937" stroke="#10b981" stroke-width="2"/>
+  
+  <!-- People/Users icon -->
+  <g fill="#10b981">
+    <!-- Left person -->
+    <circle cx="65" cy="55" r="12"/>
+    <path d="M 55 75 Q 55 68 65 68 Q 75 68 75 75 L 75 95 Q 75 100 70 100 L 60 100 Q 55 100 55 95 Z"/>
+    
+    <!-- Right person -->
+    <circle cx="135" cy="55" r="12"/>
+    <path d="M 125 75 Q 125 68 135 68 Q 145 68 145 75 L 145 95 Q 145 100 140 100 L 130 100 Q 125 100 125 95 Z"/>
+    
+    <!-- Center person (larger) -->
+    <circle cx="100" cy="50" r="14"/>
+    <path d="M 85 75 Q 85 65 100 65 Q 115 65 115 75 L 115 110 Q 115 117 108 117 L 92 117 Q 85 117 85 110 Z"/>
+  </g>
+  
+  <!-- Bottom text/briefcase element -->
+  <g stroke="#10b981" stroke-width="2" fill="none">
+    <rect x="60" y="130" width="80" height="30" rx="4" fill="#10b981" opacity="0.2"/>
+    <path d="M 80 130 L 80 120 Q 80 115 85 115 L 115 115 Q 120 115 120 120 L 120 130"/>
+  </g>
+</svg>
